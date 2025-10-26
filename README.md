@@ -185,6 +185,7 @@ CREATE TABLE sketch_versions (
 - `POST /api/sketches` - Create a new sketch version
 - `GET /api/sketches` - Get all sketch versions
 - `GET /api/sketches/:id` - Get a specific sketch version
+- `PUT /api/sketches/:id` - Update a sketch version
 - `DELETE /api/sketches/:id` - Delete a sketch version
 
 ### Health Check
